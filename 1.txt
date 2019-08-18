@@ -1,7 +1,1 @@
-aaaa
-ssss
-dddd
-
-cccc 2
-
-ffff 3
+aaaa  1
